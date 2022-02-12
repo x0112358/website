@@ -1,0 +1,42 @@
+html {
+    background-color: white;
+}
+
+body {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.main {
+    position: relative;
+    background-color: #D7C53F;
+    height: 500px;
+}
+
+.form1 {
+    position: relative;
+    top: 100px;
+    margin: auto;
+    width: 250px;
+    height: 200px;
+    border: 1px solid black;
+}
+
+nav {
+    position: relative;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: grey;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 40px;
+    border: 1px solid black;
+}
